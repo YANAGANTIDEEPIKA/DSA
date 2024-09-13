@@ -1,0 +1,4 @@
+Arrays:
+type[] arrayname;
+eg:
+int[] numbers;
